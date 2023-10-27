@@ -1,0 +1,2 @@
+import feladatok
+import gyakorlas
